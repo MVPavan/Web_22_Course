@@ -2,25 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Pavan's Personal Site</title>
+    <title>Angela's Personal Site</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
 
-  <body>
-    <table cellspacing="0">
+  <body style="background-color: white">
+    <table cellspacing="20">
       <tr>
-        <td><img src="https://pbs.twimg.com/profile_images/815875957051375616/jNPXpKRq_400x400.jpg" alt="PavanMV profile picture"></td>
-        <td><h1>Venkata Pavan M</h1>
-        <p><em>Pursuing PHD in AI @ <strong><a href="https://ai.iith.ac.in/">IITH AI</a></strong>.</em></p>
-        <p>I am a Computer Vision Engineer!</p></td>
+        <td><img src="images/angela.png" alt="angela profile picture"></td>
+        <td><h1>Angela Yu</h1>
+        <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App Brewery</a></strong>.</em></p>
+        <p>I am an iOS and Web Developer. I ❤️ coffee and brew my own beers.</p></td>
       </tr>
     </table>
-    <!-- <hr>
+    <hr>
     <h3>Books and Teaching</h3>
     <ul>
       <li>The Complete iOS App Development Bootcamp</li>
       <li>The Complete Web Development Bootcamp</li>
-    </ul> -->
+    </ul>
     <hr>
     <h3>Work Experience</h3>
     <table cellspacing="10">
@@ -32,16 +32,16 @@
       </thead>
       <tbody>
         <tr>
-          <td>2021-Present</td>
-          <td>Senior Computer Vision Engineer at Johnson Controls</td>
+          <td>2009-2010</td>
+          <td>Researcher at The Institute of Cognitive Neurosciences</td>
         </tr>
         <tr>
-          <td>2017-2021</td>
-          <td>R&D Engineer II at Honeywell</td>
+          <td>2010-2013</td>
+          <td>Lead Developer at Tempo App</td>
         </tr>
         <tr>
-          <td>2014-2015</td>
-          <td>Business Analyst at Deloitte</td>
+          <td>2013-2015</td>
+          <td>Clinical Doctor at the National Health Service</td>
         </tr>
       </tbody>
     </table>
@@ -62,6 +62,7 @@
       </tr>
     </table>
     <hr>
+    <a href="hobbies.html">My Hobbies</a>
     <a href="contact-me.html">Contact Me</a>
   </body>
 </html>
